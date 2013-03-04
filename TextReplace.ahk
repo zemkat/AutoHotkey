@@ -18,7 +18,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Type (p) to produce the phonogram symbol
 :*:(p)::℗
 
-; hotstring example
-::brn::Includes bib: type brn <space>
+; hotstring example: type brn <space> to expand abbreviation
+::brn::Includes bibliographical references (p. ) and index.
 
 
