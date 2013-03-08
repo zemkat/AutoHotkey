@@ -7,6 +7,7 @@ Tools implemented with AutoHotkey
 
 * `CloseAll.ahk` -- Press Window-C to close all open windows
 * `Search.ahk` -- Press Window-S to search records
+* `PasteForOverlay.ahk` -- Press Window-O to paste into a new 946 
 
 **General**
 
