@@ -10,6 +10,8 @@ Tools implemented with AutoHotkey
 
 **General**
 
+* `BangBangGreek.ahk` -- Type Greek letters with hotstrings like !Alpha!
+* `PasteCaps.ahk` -- Paste clipboard contents in all caps
 * `TextReplace.ahk` -- Text replacement/hotstring demo
 
 More coming soon!
