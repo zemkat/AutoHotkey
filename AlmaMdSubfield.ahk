@@ -1,5 +1,5 @@
 ;
-; Alma Subfield - use ctrl-D to type Subfield Delimiters in Alma
+; Alma Subfield - use ctrl-D to type Subfield Delimiters in Alma Metadata Editor
 ;
 ; (c) 2018 Kathryn Lybarger. CC-BY-SA
 ;
